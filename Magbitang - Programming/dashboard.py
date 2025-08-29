@@ -46,6 +46,4 @@ tk.Button(root, text="Exit", width=15, bg="red", fg="white", font=("Arial", 12),
 
 root.mainloop()
 
-#Manimtim, Jasmine Aira D.
-#BSIT 112 - A
-#Finals Practical in Comp Prog
+#Magbitang, Elisha Jhoyce M.
