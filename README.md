@@ -75,8 +75,6 @@ pip install -r requirements.txt
 
 ## 👩‍💻 Author
 
-Developed by **\Elisha Jhoyce M. Magbitang** as a fun project to practice Python.
+Developed by **Elisha Jhoyce M. Magbitang** as a fun project to practice Python.
 
 ---
-
-Would you like me to make it **professional-style (like a GitHub portfolio project)** or **fun-style (casual, playful wording with emojis)**?
